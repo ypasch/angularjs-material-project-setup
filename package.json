@@ -1,0 +1,33 @@
+{
+  "name": "angularjs-material-project-setup",
+  "version": "1.0.0",
+  "description": "angularjs and angular-material  project setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ypasch/angularjs-material-project-setup.git"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "ypasch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ypasch/angularjs-material-project-setup/issues"
+  },
+  "homepage": "https://github.com/ypasch/angularjs-material-project-setup#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  },
+  "dependencies": {
+    "del": "^2.2.0",
+    "gulp-concat": "^2.6.0"
+  }
+}
